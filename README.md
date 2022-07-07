@@ -14,7 +14,7 @@ This code uses: Astropy, NumPy, Scipy
 
 ## License
 
-This package is licensed under the MIT License. See the [LICENSE file](https://github.com/louisperenon/growth_PT/blob/master/LICENSE) for more details.
+This package is licensed under the MIT License. See the [LICENSE file](https://github.com/louisperenon/growth-PT/blob/master/LICENSE) for more details.
 
 ## Code of conduc
 
