@@ -1,4 +1,4 @@
-# Code to compute the growth of structures with perturbation theory
+# Code to compute cosmological growth of structures prediction from perturbation theory
 
 **Author: Louis Perenon**
 
